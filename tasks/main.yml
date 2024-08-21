@@ -131,6 +131,7 @@
       - rhel9cis_set_boot_pass
       - rhel9cis_rule_1_4_1
   tags:
+      - djoo_test
       - always
 
 - name: Gather the package facts
